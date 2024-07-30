@@ -1,0 +1,41 @@
+{
+  "id": "7e970f41-4a9d-4f1a-bbf0-917e802c8dcd",
+  "name": "Project1",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+    "appId" : "56f2dbc2-5cb4-4f0c-89f5-8ae8e5bf248c",
+    "publisher": "GSUS Star Technologie",
+    "version": "2.2.2.2",
+    "name": "GSUS"
+  }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 50800,
+      "to": 50949
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "13.0",
+  "features": [
+    "NoImplicitWith"
+
+  ]
+  
+}
